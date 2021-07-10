@@ -1,0 +1,30 @@
+{
+  "ownerNumber": "6285155078806@s.whatsapp.net",
+  "limitCount": 20,
+  "gamewaktu": 60,
+  "botName": "NTFVX - BOT",
+  "pathImg": "./media/Itsuki.jpg",
+  "lolkey": "thisisjuwen",
+  "fake": "NTFVX!~",
+  "autodel": false,
+  "autodelmsg": true,
+  "timedel": "1000",
+  "sesidInsta": "default",
+  "sessionName": "juwen-log",
+  "gcount": {
+    "prem": 20,
+    "user": 10
+  },
+  "emote": {
+    "free": "◽",
+    "owner": "◾",
+    "limit": "🔸",
+    "glimit": "🔹",
+    "prem": "💰"
+  },
+  "saweria": {
+    "email": "jszone29@gmail.com",
+    "password": "BAPAmama4",
+    "user-id": "2f333afc-39e2-44e7-b185-e76c70413bc9"
+  }
+}
