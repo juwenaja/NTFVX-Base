@@ -1,13 +1,16 @@
-{ "prefa": ".",
-  "multi": false,
+{
+  "prefa": ".",
+  "multi": true,
   "nopref": false,
   "ownerNumber": "6285155078806@s.whatsapp.net",
   "limitCount": 20,
   "gamewaktu": 60,
+  "groupMemSet": "1",
   "botName": "NTFVX - BOT",
-  "pathImg": "./media/Itsuki.jpg",
+  "pathImg": "./media/ntfvx.jpeg",
   "lolkey": "thisisjuwen",
   "fake": "NTFVX!~",
+  "coderegis": "8997",
   "autodel": false,
   "autodelmsg": false,
   "timedel": "1000",
@@ -17,12 +20,9 @@
     "prem": 20,
     "user": 10
   },
-  "emote": {
-    "free": "◽",
-    "owner": "◾",
-    "limit": "🔸",
-    "glimit": "🔹",
-    "prem": "💰"
+  "vote": {
+    "max": "4",
+    "expired": "1"
   },
   "saweria": {
     "email": "jszone29@gmail.com",
