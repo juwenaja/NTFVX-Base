@@ -12,7 +12,7 @@
   },
   "author": "juwenn",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.0",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@vitalets/google-translate-api": "^7.0.0",
     "axios": "^0.21.1",
     "bad-words": "^3.0.4",
@@ -49,16 +49,16 @@
     "sharp": "^0.28.3",
     "stream": "0.0.2",
     "text2png": "^2.3.0",
-    "tiktok-scraper": "^1.4.31",
+    "tiktok-scraper": "^1.4.33",
     "util": "^0.12.4",
     "yt-search": "^2.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/juwenaja/NTFVX-Base.git"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/juwenaja/NTFVX-Base/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/juwenaja/NTFVX-Base#readme"
 }
