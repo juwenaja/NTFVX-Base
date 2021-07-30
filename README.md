@@ -1,15 +1,9 @@
-<p align='center'><a href="https://instagram.com/juwendy_s"><img height="200" src="https://github.com/juwenaja/juwenaja/blob/d4d578052f70496fda9fc147b4781255fb48d418/profiles.jpg"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/juwendy_s"><img height="200" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//87/MTA-12336324/netflix_netflix_premium_1_tahun_uhd_4k_e-ticket_-selalu_ready-_full02_do3lcfat.jpg"></a>&nbsp;&nbsp;</p>
 <p align="center">
 <a href="https://github.com/juwenaja"><img title="Author" src="https://img.shields.io/badge/NTFVX | Juwennn-black.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 # NTFVX Bot
-
-## Contact
-- [WHATSAPP](https://wa.me/6289635687240)
-
-## Donate
-- [GOPAY | 085155078806]
 
 ## Getting Started
 
