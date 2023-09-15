@@ -1,6 +1,6 @@
 <p align='center'><a href="https://instagram.com/juwendy_s"><img height="200" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//87/MTA-12336324/netflix_netflix_premium_1_tahun_uhd_4k_e-ticket_-selalu_ready-_full02_do3lcfat.jpg"></a>&nbsp;&nbsp;</p>
 <p align="center">
-<a href="https://github.com/juwenaja"><img title="Author" src="https://img.shields.io/badge/NTFVX | Juwennn-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/juwenaja"><img title="Author" src="https://img.shields.io/badge/NTFVX | W3NN-black.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 # NTFVX Bot
@@ -24,12 +24,12 @@ Note : Kalo Mau Work, Centang Kolom 1,2,3,5,6
 * Run Command Prompt as Administrator.
 * Run this command:
 ```cmd
-> setx /m PATH "C:\Program Files\Tesseract-OCR;%PATH%"
+setx /m PATH "C:\Program Files\Tesseract-OCR;%PATH%"
 ```
 It will give us a callback like `SUCCESS: specified value was saved`.
 * Now that you've Tesseract installed, verify that it's working by running this command to see version number:
 ```cmd
-> tesseract -version
+tesseract -version
 ```
 
 ## 🛠️ Installing the FFmpeg
@@ -39,12 +39,12 @@ It will give us a callback like `SUCCESS: specified value was saved`.
 * Run Command Prompt as Administrator.
 * Run this command:
 ```cmd
-> setx /m PATH "C:\ffmpeg\bin;%PATH%"
+setx /m PATH "C:\ffmpeg\bin;%PATH%"
 ```
 It will give us a callback like `SUCCESS: specified value was saved`.
 * Now that you've FFmpeg installed, verify that it's working by running this command to see version number:
 ```cmd
-> ffmpeg -version
+ffmpeg -version
 ```
 
 ## 📷 Installing the libwebp
@@ -60,7 +60,7 @@ The installation is same as you install FFmpeg but whatever. I will make it clea
 It will give us a callback like `SUCCESS: specified value was saved`.
 * Now that you've libwebp installed, verify that it's installed by running this command to see version number:
 ```cmd
-> webpmux -version
+webpmux -version
 ```
 
 
@@ -75,13 +75,13 @@ npm install
 
 ## Usage
 
-1. run the Whatsapp bot
+1. NORMAL RUNNING
 
 ```bash
 npm start
 ```
 
-2. run with pm2
+2. RUN WITH PM2
 
 Install PM2 First :
 ```bash
