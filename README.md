@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-### This project require NodeJS v14.
+### This project require NodeJS v14 or latest.
 
 ### FFMPEG
 - [DOWNLOAD](https://ffmpeg.org/)
@@ -69,7 +69,7 @@ It will give us a callback like `SUCCESS: specified value was saved`.
 Install the dependencies:
 
 ```bash
-> npm install
+npm install
 ```
 
 
@@ -78,16 +78,31 @@ Install the dependencies:
 1. run the Whatsapp bot
 
 ```bash
-> npm start
+npm start
 ```
 
-2. stop the Whatsapp bot
+2. run with pm2
 
-for npm :
+Install PM2 First :
 ```bash
-> ctrl + c
+npm install pm2 -g
+```
+
+After installing PM2, run with:
+```bash
+pm2 start main.js
+```
+
+And for monitoring:
+```bash
+pm2 logs
 ```
 
 after running it you need to scan the qr
 
 ---
+
+# Thanks to
+* [`Dika`](https://github.com/DikaArdnt)
+* [`Nanda`](https://github.com/nugraizy)
+* [`Baileys`](https://github.com/WhiskeySockets/Baileys)
